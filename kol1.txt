@@ -4,3 +4,4 @@ Zmiana04
 zmiana2
 zmiana4
 zmiana7
+zmiana8
